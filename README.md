@@ -18,6 +18,7 @@
 
 ## Chord substitions 
 - The king of romance - The 11th chord and its voicings
+- Passing chords - Lets take the scienic route
 - the rule of thumb (x number of common notes) and whatever works
 - M -> add9 (Steely Dan is king!)
 - Suspended chords (add9, sus2, sus4, add11, 7sus4)
@@ -33,10 +34,12 @@
 - voicings of 9ths, 11ths and 13ths
 - Shell voicings
 - Bill Evans voicings
+- It feels so wrong, yet so right - chord tensions b9, #9, #11, b13
 
 
 ## Bass
 - What makes a good bass line?
+- The bass line as a parallel melody (Some examples)
 - Diatonic passing notes
 - Descending/Ascending bass lines
 - Chromatic passing notes
