@@ -22,6 +22,7 @@
 - the rule of thumb (x number of common notes) and whatever works
 - M -> add9 (Steely Dan is king!)
 - Suspended chords (add9, sus2, sus4, add11, 7sus4)
+- Lets take the scenic route: Passing chords  Case studies: In Christ Alone, Coldplay's paradise.
 - Some uses of Diminished chords (as passing chords and substitutions)
 - 2-5-1s
 - 2-5-1 subs
@@ -41,7 +42,7 @@
 - What makes a good bass line?
 - The bass line as a parallel melody (Some examples)
 - Diatonic passing notes
-- Descending/Ascending bass lines
+- Descending/Ascending bass lines. Coldplay, Paradise
 - Chromatic passing notes
 - Aside: How to walk a jazz bass line - https://www.youtube.com/watch?v=ruTfC5v9Z2Y
 
