@@ -40,7 +40,7 @@
 
 ## Bass
 - What makes a good bass line?
-- The bass line as a parallel melody (Some examples)
+- The bass line as a parallel melody (Some examples) Shes always a woman to me
 - Diatonic passing notes
 - Descending/Ascending bass lines. Coldplay, Paradise
 - Chromatic passing notes
